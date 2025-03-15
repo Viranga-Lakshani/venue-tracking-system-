@@ -1,0 +1,13 @@
+{
+  "name": "venue-tracking-system",
+  "version": "1.0.0",
+  "description": "Real-time venue tracking system using WebSocket and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.6"
+  }
+}
