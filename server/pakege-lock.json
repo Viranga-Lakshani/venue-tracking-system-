@@ -1,0 +1,18 @@
+{
+  "name": "venue-tracking-system",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "accepts": {
+      "version": "1.3.7",
+      "resolved": "https://registry.npmjs.org/accepts/-/accepts-1.3.7.tgz",
+      "integrity": "sha512-zgkELkEdb5JSd+CTpuL1+9k1v4c7S+0MZ57sE/1pM9l+3Hc7tFj5V6tO4D9c5xY4eFzZB2r7xl+Kz4cDaxK4VQ==",
+      "requires": {
+        "mime-types": "~2.1.24",
+        "negotiator": "0.6.2"
+      }
+    },
+    ...
+  }
+}
